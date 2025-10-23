@@ -1,0 +1,10 @@
+Oct 23 09:26:24.751 HYPERVISOR: Release 0.2.17-x86/Windows (tag 2017072410)
+Oct 23 09:26:24.751 HYPERVISOR: Started on IP = localhost, TCP port = 53705.
+Oct 23 09:26:24.958 HYPERVISOR: exec_cmd: hypervisor version 
+Oct 23 09:26:24.959 HYPERVISOR: exec_cmd: hypervisor working_dir C:\ESCOM\7 Semestre\Administración de Servicios en Red\Proyecto Admon redes\Proyecto_AdmonRedes\project-files\dynamips 
+Oct 23 09:26:24.964 GENERAL: working_dir=C:\ESCOM\7 Semestre\Administración de Servicios en Red\Proyecto Admon redes\Proyecto_AdmonRedes\project-files\dynamips
+Oct 23 09:26:24.965 HYPERVISOR: exec_cmd: ethsw create Switch1 
+Oct 23 09:26:28.157 HYPERVISOR: exec_cmd: ethsw delete Switch1 
+Oct 23 09:26:28.159 HYPERVISOR: exec_cmd: hypervisor stop 
+Oct 23 09:26:28.462 HYPERVISOR: Stopped.
+Oct 23 09:26:28.462 GENERAL: reset done.
